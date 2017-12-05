@@ -11,16 +11,16 @@ NavMeshProjectSettings:
     cost: 1
   - name: Jump
     cost: 2
-  - name: WaterArea
-    cost: 8
-  - name: Door
+  - name: 
     cost: 1
   - name: 
     cost: 1
-  - name: SandArea
-    cost: 2
-  - name: Bridge
-    cost: 50
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
   - name: 
     cost: 1
   - name: 

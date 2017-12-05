@@ -12,7 +12,7 @@ public class PlayerScript : MonoBehaviour {
 	}
 	
 	void FixedUpdate () {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0)) //Input.GetButton(¨M1¨);
         {
             RaycastHit hit;
 

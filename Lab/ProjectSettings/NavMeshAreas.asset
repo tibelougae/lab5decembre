@@ -11,16 +11,16 @@ NavMeshProjectSettings:
     cost: 1
   - name: Jump
     cost: 2
+  - name: Sand
+    cost: 1
   - name: WaterArea
-    cost: 8
-  - name: Door
     cost: 1
   - name: 
     cost: 1
-  - name: SandArea
-    cost: 2
-  - name: Bridge
-    cost: 50
+  - name: 
+    cost: 1
+  - name: 
+    cost: 1
   - name: 
     cost: 1
   - name: 
@@ -76,7 +76,7 @@ NavMeshProjectSettings:
     agentRadius: 0.5
     agentHeight: 2
     agentSlope: 60
-    agentClimb: 0.75
+    agentClimb: 0.27
     ledgeDropHeight: 0
     maxJumpAcrossDistance: 0
     minRegionArea: 2

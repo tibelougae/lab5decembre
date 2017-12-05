@@ -23,8 +23,8 @@ GameObject:
   - component: {fileID: 23665080212203412}
   - component: {fileID: 54363499963136146}
   - component: {fileID: 195419802476028536}
-  - component: {fileID: 114709963835759634}
   - component: {fileID: 136799293629944852}
+  - component: {fileID: 114724722541994428}
   m_Layer: 0
   m_Name: Zombie
   m_TagString: Untagged
@@ -39,7 +39,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1550688675085642}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.302534, y: 1.55, z: 10.532536}
+  m_LocalPosition: {x: 4.470276, y: -0.11000013, z: 23.583967}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -59,7 +59,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 6f35d105cc39db149ad35eb9d89c3829, type: 2}
+  - {fileID: 2100000, guid: e87f993a1ea4992429b38466f43c1ac1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -101,7 +101,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &114709963835759634
+--- !u!114 &114724722541994428
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1550688675085642}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 94ead73a2db49154280bc7967a345542, type: 3}
+  m_Script: {fileID: 11500000, guid: 842594cea1b49eb48b52c61f0f384351, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!136 &136799293629944852
